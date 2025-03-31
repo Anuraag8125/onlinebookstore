@@ -6,9 +6,6 @@
 	<artifactId>onlinebookstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-<<<<<<< HEAD
-	<This is practice session jenkins 27
-=======
 	<build>
 >>>>>>> 0c20023b4822cf2d8ae2bb7433dacba79f794a6a
 		<sourceDirectory>src/main/java</sourceDirectory>
